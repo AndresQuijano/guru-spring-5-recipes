@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>guru.spring</groupId>
-    <artifactId>recipes</artifactId>
+    <artifactId>guru-spring-5-recipes</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>recipes</name>
+    <name>guru-spring-5-recipes</name>
     <description>Recipes web app</description>
 
     <properties>

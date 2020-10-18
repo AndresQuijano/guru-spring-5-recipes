@@ -1,13 +1,13 @@
-package guru.spring.recipes;
+package guru.spring.guruspring5recipes;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class RecipesApplication {
+public class GuruSpring5RecipesApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(RecipesApplication.class, args);
+        SpringApplication.run(GuruSpring5RecipesApplication.class, args);
     }
 
 }
